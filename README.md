@@ -1,4 +1,6 @@
-# coliru.nvim
+<h1 align="center">
+  <img src="assets/coliru-nvim-logo.svg" alt="coliru.nvim">
+</h1>
 
 Compile, link, and run the current buffer remotely with Coliru
 
